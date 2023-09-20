@@ -1,0 +1,6 @@
+1. Install python > 3.6
+2. Download ffmpeg and move to c://windows/system32
+3. pip install -r requirements.txt
+4. run GUI.py
+5. It will take a lot of time in the first run because it will download the pretrained model but only for the first time
+size around 2 GB
